@@ -1,0 +1,2 @@
+# projeto.quikdev
+Projeto quikdev - As técnicas em cada tela foi feita com teste de dados corretos e dados incorretos, também foram feitos testes negativos e testes positivos validando toda a funcionalidade das telas, todos os testes passaram. Foi realizado o teste utilizando as ferramentas de escrita BDD com cucumber na parte de documentação, e os testes de UI foram realizados com Selenium WebDriver e  JUnit, a linguagem de programação foi Java
